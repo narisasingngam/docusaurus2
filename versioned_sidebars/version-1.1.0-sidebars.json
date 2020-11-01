@@ -1,0 +1,49 @@
+{
+  "version-1.1.0/someSidebar": [
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Docusaurus",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-1.1.0/doc1"
+        },
+        {
+          "type": "doc",
+          "id": "version-1.1.0/doc2"
+        },
+        {
+          "type": "doc",
+          "id": "version-1.1.0/doc3"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Features",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-1.1.0/mdx"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "test",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-1.1.0/part1"
+        },
+        {
+          "type": "doc",
+          "id": "version-1.1.0/part2"
+        }
+      ]
+    }
+  ]
+}
